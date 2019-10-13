@@ -1,4 +1,4 @@
-#When you whrite 'help /' in matlab, it will tell you that A/B equals to A*INV(B). 
+When you whrite 'help /' in matlab, it will tell you that A/B equals to A*INV(B). 
 But what will happen if B is not a squar matrix, but a row vector?
 If you think B is row vector, so we can not get the invers of B. So you wont get anything.:
 But when try it in matlab, and input these:
