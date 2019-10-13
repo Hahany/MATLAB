@@ -1,4 +1,4 @@
-What does A/B mean, when B is a row vector?
+What does A/B mean in MATLAB, when B is a row vector?
 =====
 When you whrite 'help /' in matlab, it will tell you that A/B equals to A*INV(B). <br>
 But what will happen if B is not a squar matrix, but a row vector?<br>
