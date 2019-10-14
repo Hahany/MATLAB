@@ -1,0 +1,18 @@
+当B是行向量时，A/B定义的是什么运算？
+===
+一般的MATLAB教材中会告诉我们：A/B 表示xB=A的解,A/B=A*inv(B)。<br>
+但是当B为行向量时，B的逆是不存在的。MATLAB却依旧给出计算结果，那么这个计算结果到底是什么呢？
+MATLAB中输入以下命令：
+A = [1,0,0;0,1,0;0,0,1]<br>
+B = [1,2,3]<br>
+A/B<br>
+
+计算结果为：
+ans =<br>
+
+    0.0714
+    0.1429
+    0.2143
+    
+这里实际上MATLAB定义的运算实际上是：(A*B')/dot(B,B)<br>
+![数学公式](https://github.com/Hahany/MATLAB/blob/master/CodeCogsEqn.gif?raw=true)
