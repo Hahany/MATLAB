@@ -17,5 +17,5 @@ So what?<br>
 
 A/B, when B is a row vector, eaquals (A*B')/dot(B,B)<br>
 Does that look familiar? <br>
-![avatar](C:\Users\xchu0\Pictures\CodeCogsEqn.gif)
+![avatar](CodeCogsEqn.gif)
 
