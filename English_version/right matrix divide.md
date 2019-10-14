@@ -17,5 +17,5 @@ So what?<br>
 
 A/B, when B is a row vector, eaquals (A*B')/dot(B,B)<br>
 Does that look familiar? <br>
-<div align=center>![数学公式](https://github.com/Hahany/MATLAB/blob/master/CodeCogsEqn.gif)
+!<div align=center>[数学公式](https://github.com/Hahany/MATLAB/blob/master/CodeCogsEqn.gif)
 
