@@ -1,3 +1,5 @@
 # MATLAB
-Some puzzling questions and their answers in learning matlab.
-There are some questions and answers that you seldom meet, but they are interesting.
+Some puzzling questions and their answers in learning matlab.<br>
+There are some questions and answers that you seldom meet, but they are interesting.<br>
+收集MATLAB学习中令人迷惑的问题，并给出部分问题的答案。这里的问题在网络上不易搜到，并且容易被忽视。<br>
+
